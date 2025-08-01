@@ -97,7 +97,7 @@ If you find this work useful for your research, please cite our paper:
 @article{anonymous2025mloss,
   title={M-loss: Quantifying Model Merging Compatibility With Limited Unlabeled Data},
   author={Anonymous},
-  journal={NeurIPS},
+  journal={AAAI},
   year={2025}
 }
 ```
